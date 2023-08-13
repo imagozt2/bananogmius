@@ -1,0 +1,116 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Banano>Bananogmius</Banano>
+      <Banano_stt>Bananogmius</Banano_stt>
+      <Banano_lower>El Bananogmius</Banano_lower>
+      <Banano_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bananogmius</b>
+         </color>
+         <br/>
+         Haga clic y seleccione el Bananogmius, un pez de bellos colores.
+      </Banano_ltt>
+</entityname>
+<zoopedia_banano>
+ <entry>Bananogmius</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Banano/Banano_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagico<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Actinopterygii <i>(Peces)</i><br/>Orden: Bananogmiiformes <i>(Tselfatiiformes)</i><br/>Familia: Bananogmiidae <i>(Plethodidae)</i><br/>Genero: <i>Bananogmius</i><br/>Especie: <i>B. evolutus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Bananogmius</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El Bananogmius podia llegar a medir 2 metros.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El Bananogmius puede asemejarse al pez vela moderno.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar un Bananogmius se necesitan 1/2 estrellas de fama en el zoo.
+   </color>
+   <p/>Este pez prehistorico de tamaño mediano (Seis pies de largo/dos metros de largo) vivía en las aguas de la vía marítima interior occidental que una vez cubrio gran parte del centro de América del Norte. Bananogmius tenía un esqueleto óseo, cual le ayudó a preservarse bien. Aunque rara vez se descubre, estos fósiles se han encontrado en Smoky Hill Chalk, en Kansas. Bananogmius se distingue por una aleta dorsal grande y atractivo, muy similar a la encontrada en un pez vela moderna.
+
+   <p/>Aunque Bananogmius evolutus fue representado en Sea Monsters: A prehistoric adventure, la especie no se considera un miembro del género Bananogmius,  actualmente se encuentra en el género Pentanogmius.
+
+   <p/> Este pez vivió hace 80 millones de años.
+   
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhalt von Wikipedia & Nationalgeographic.com/seamonsters/
+  <p/>Imago
+  </cell>
+ </text>
+</zoopedia_banano>
+</ZT2Strings>

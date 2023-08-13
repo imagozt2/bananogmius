@@ -1,0 +1,116 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Banano>Bananogmius</Banano>
+      <Banano_stt>Bananogmius</Banano_stt>
+      <Banano_lower>The Bananogmius</Banano_lower>
+      <Banano_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bananogmius</b>
+         </color>
+         <br/>
+         Click and select the Bananogmius.
+      </Banano_ltt>
+</entityname>
+<zoopedia_banano>
+ <entry>Bananogmius evolutus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Banano/Banano_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Biome:
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagic<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Sea<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Neopterygii <i>(Fish)</i><br/>Ordo: Bananogmiiformes <i>(Tselfatiiformes)</i><br/>Family: Bananogmiidae <i>(Plethodidae)</i><br/>Genus: <i>Bananogmius</i><br/>Species: <i>evolutus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun dicts of Bananogmius</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Bananogmius size 2 m.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Bananogmius resembles a modern sailfish.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    You need 1/2 stars to adopt the Bananogmius.
+   </color>
+   <p/>This medium-size (six-foot-long/two-meter-long) prehistoric fish lived in the waters of the Western Interior Seaway that once coveres much of central North America. Bananogmius had a bony skeleton, wich helped to preserve it well. Though rarely discovered, these fossils have been found in Kansas' Smoky Hill Chalk. Bananogmius is most distinguished by a large and attractive dorsal fin, much like that found on a modern sailfish. The fin streched adobe a narrow body that has been likened to that of today's angelfish.
+
+   <p/>Although Bananogmius evolutus was depicted in Sea Monsters: A Prehistoric Adventure, that species is not considered to be a member of the genus Bananogmius, and is currently in the genus Pentanogmius.
+
+   <p/>It lived 80 million years ago in the Late Cretaceous and lived in the same age as Tylosaurus and Elasmosaurus.
+   
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhalt von Wikipedia & Nationalgeographic.com/seamonsters/
+  <p/>Imago
+  </cell>
+ </text>
+</zoopedia_banano>
+</ZT2Strings>
